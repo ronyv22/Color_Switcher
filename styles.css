@@ -1,0 +1,20 @@
+body {
+  margin: 0;	
+  font-family: "Roboto", san-serif;		
+}
+
+.dropdown-menu {
+  position: absolute;
+  background: transparent;
+  border-style: solid;
+  border-color: white;
+  border-width: 0.1rem;
+  border-radius: 0.25rem;
+  padding: 0.75rem;
+
+}
+
+
+.dropdown-menu:hover {
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.5);	
+}
